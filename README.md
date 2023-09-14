@@ -1,4 +1,4 @@
-# Azure Machine Learning - Model Monitoring Capabilities Demonstration
+# Azure Machine Learning - Model Monitoring Demo
 
 Welcome to this repository. It is designed as a practical demonstration of Azure Machine Learning's Model Monitoring capabilities using Jupyter notebooks. While the demonstration focuses on a specific use case, the principles and techniques presented can be adapted and extended for a wide variety of model deployment and monitoring purposes.
 
